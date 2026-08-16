@@ -69,7 +69,7 @@ Bu proje, yalnızca **`meb.k12.tr`** alt alan adına sahip, MEB'e bağlı devlet
 Depoyu klonlayın ve bağımlılıkları yükleyin:
 
 ```bash
-git clone https://github.com/kullanici-adi/meb-school-api.git
+git clone https://github.com/nailleh/meb-school-api.git
 cd meb-school-api
 npm install
 ```
