@@ -100,10 +100,10 @@ Tüm endpoint'ler `GET` metoduyla çalışır.
 
 | Endpoint | Açıklama |
 |---|---|
-| `GET /api/adres` | Okul adres bilgilerini döndürür |
+| `GET /api/adres` | Okul adres bilgisini döndürür |
 | `GET /api/ogretmenler` | Öğretmen listesini döndürür |
-| `GET /api/telefonnumarasi` | Okul telefon numaralarını döndürür |
-| `GET /api/yoneticiler` | Yönetici bilgilerini döndürür |
+| `GET /api/telefonnumarasi` | Okul telefon numarasını döndürür |
+| `GET /api/yoneticiler` | Yönetici listesini döndürür |
 
 ### Örnek Yanıt
 
