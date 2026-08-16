@@ -119,7 +119,8 @@ Tüm endpoint'ler `GET` metoduyla çalışır.
 
 ## 📄 Lisans
 
-Bu proje **MIT Lisansı** ile lisanslanmıştır.
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.  
+Kullanım koşulları için `LICENSE` dosyasını inceleyiniz.
 
 ---
 
