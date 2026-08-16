@@ -105,7 +105,7 @@ Tüm endpoint'ler `GET` metoduyla çalışır.
 | `GET /api/telefonnumarasi` | Okul telefon numaralarını döndürür |
 | `GET /api/yoneticiler` | Yönetici bilgilerini döndürür |
 
-### Örnek Modül Adres Sorgu Yanıtı
+### Örnek Yanıt
 
 ```json
 {
@@ -119,8 +119,7 @@ Tüm endpoint'ler `GET` metoduyla çalışır.
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.  
-Kullanım koşulları için `LICENSE` dosyasını inceleyiniz.
+Bu proje **MIT Lisansı** ile lisanslanmıştır.
 
 ---
 
