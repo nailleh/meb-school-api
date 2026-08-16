@@ -109,8 +109,9 @@ Tüm endpoint'ler `GET` metoduyla çalışır.
 
 ```json
 {
-  "status": "success",
-  "data": { ... }
+  "success": true,
+  "adres": "Osmangazi Mah. Fatih Sultan Mehmet Cad. No81 Darıca/KOCAELİ",
+  "web": "https://denizyildizlari.meb.k12.tr"
 }
 ```
 
